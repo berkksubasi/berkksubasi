@@ -12,6 +12,3 @@
 - 🇯🇸 JavaScript
 - 🗄 Monorepo
 - ⚡ Fun fact: I want to write code every time I turn on the computer.
-
-
-!GitHub İstatistiklerim
