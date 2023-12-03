@@ -19,3 +19,8 @@
 <!-- Most Used Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkksubasi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+# Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-berkksubasi-blue)](https://www.linkedin.com/in/berkksubasi/)
+[![Twitter](https://img.shields.io/twitter/follow/berkksubasi?style=social)](https://twitter.com/berkksubasi)
+[![Instagram](https://img.shields.io/badge/Instagram-berkksubasi-pink)](https://www.instagram.com/berkksubasi/)
