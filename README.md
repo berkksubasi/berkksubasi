@@ -13,7 +13,7 @@
 - 🗄 Monorepo
 - ⚡ Fun fact: I want to write code every time I turn on the computer.
 
-### My Github Profile Stats
+## My Github Profile Stats
 <!-- GitHub Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkksubasi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
