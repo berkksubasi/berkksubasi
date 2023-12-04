@@ -1,7 +1,7 @@
 ### Hi there, I'm Berk Subasi 👋
 
 
-### I am a very curious and investigative developer!!
+## I am a very curious and investigative developer!!
 
 
 
