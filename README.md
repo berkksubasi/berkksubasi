@@ -2,7 +2,6 @@
 
 
 ### I am a very curious and investigative developer!!
-<seperator>
 
 
 
