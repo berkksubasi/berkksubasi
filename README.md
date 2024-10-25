@@ -41,5 +41,3 @@
 </div>
 
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
-
-[![streak](https://codeium.com/badges/v2/user/mildly-incisive-colobus-07745/streak)](https://codeium.com/profile/mildly-incisive-colobus-07745)
